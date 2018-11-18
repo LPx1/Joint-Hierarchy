@@ -9,6 +9,9 @@
 //
 //  (c) Kevin M. Smith  - 24 September 2018
 //
+//
+//   Student : Luis Pamintuan - 17 November 2018
+//
 
 #include "ofMain.h"
 #include "box.h"
