@@ -1,0 +1,3 @@
+-create -joint SceneObject -rotate <0.000000, 0.000000, 0.000000> -translate <0.000000, -2.000000, 0.000000> -parent (null)
+-create -joint Joint20 -rotate <0.000000, 0.000000, 0.000000> -translate <-2.682257, 3.099661, -2.858828> -parent (null)
+-create -joint Joint23 -rotate <0.000000, 0.000000, 0.000000> -translate <0.000000, 2.000000, 0.000000> -parent (null)

@@ -1,0 +1,1 @@
+-create -joint Joint1 -rotate <0.000000, 0.000000, 0.000000> -translate <0.000000, 2.000000, 0.000000> -parent (null)
